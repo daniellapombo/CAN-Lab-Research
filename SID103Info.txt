@@ -1,0 +1,39 @@
+<RawEDF  |  141176103_122.bdf, n_channels x n_times : 73 x 297472 (581.0 sec), ~165.8 MB, data loaded><RawEDF  |  141176103_122.bdf, n_channels x n_times : 73 x 297472 (581.0 sec), ~165.8 MB, data loaded>
+<Info | 16 non-empty fields
+    bads : list | 0 items
+    ch_names : list | A1_Fpz, A2_Fp1, A3_Fp3, A4_aF1, A5_aFz, A6_F1, A7, A8, ...
+    chs : list | 73 items (EEG: 72, STIM: 1)
+    comps : list | 0 items
+    custom_ref_applied : bool | False
+    dev_head_t : Transform | 3 items
+    events : list | 0 items
+    highpass : float | 0.0 Hz
+    hpi_meas : list | 0 items
+    hpi_results : list | 0 items
+    lowpass : float | 104.0 Hz
+    meas_date : tuple | 2019-05-12 12:59:14 GMT
+    nchan : int | 73
+    proc_history : list | 0 items
+    projs : list | 0 items
+    sfreq : float | 512.0 Hz
+    acq_pars : NoneType
+    acq_stim : NoneType
+    ctf_head_t : NoneType
+    description : NoneType
+    dev_ctf_t : NoneType
+    device_info : NoneType
+    dig : NoneType
+    experimenter : NoneType
+    file_id : NoneType
+    gantry_angle : NoneType
+    helium_info : NoneType
+    hpi_subsystem : NoneType
+    kit_system_id : NoneType
+    line_freq : NoneType
+    meas_id : NoneType
+    proj_id : NoneType
+    proj_name : NoneType
+    subject_info : NoneType
+    utc_offset : NoneType
+    xplotter_layout : NoneType
+>
